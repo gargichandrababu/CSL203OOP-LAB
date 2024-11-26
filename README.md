@@ -1,3 +1,5 @@
+**CSL 203 OBJECT ORIENTED PROGRAMMING LAB (USING JAVA)**
+
 1) Write a Java program that checks whether a given string is a palindrome or not. Ex: MALAYALAM is palindrome.
 2) Write a Java Program to find the frequency of a given character in a string.
 3) Write a Java program to check whether a given number is prime or not.
@@ -8,13 +10,14 @@
 8) Write a Java program that read from a file and write to file by handling all file related exceptions.
 9) Write a Java program that reads a line of integers, and then displays each integer, and the sum of all the integers (Use String Tokenizer class of java.util). **
 10) Write a Java program that shows the usage of try, catch, throws and finally.
-11) Write a Java program that implements a multi-threaded program which has three threads. First thread generates a random integer every 1 second. If the value is even, second thread computes the square of the number and prints. If the value is odd the third thread will print the value of cube of the number.
-12) Write a Java program that shows thread synchronization. 
-13) Write a Java program that works as a simple calculator. Arrange Buttons for digits and the + - * % operations properly. Add a text field to display the result. Handle any possible exceptions like divide by zero. Use Java Swing.
-14) Write a Java program that simulates a traffic light. The program lets the user select one of three lights: red, yellow, or green. When a radio button is selected, the light is turned on, and only one light can be on at a time. No light is on when the program starts.
-15) Write a Java program to display all records from a table using Java Database Connectivity (JDBC).
-16) Write a Java program for the following: **
+11) Write a Java program that shows how to create a user-defined exception.
+12) Write a Java program that implements a multi-threaded program which has three threads. First thread generates a random integer every 1 second. If the value is even, second thread computes the square of the number and prints. If the value is odd the third thread will print the value of cube of the number.
+13) Write a Java program that shows thread synchronization. 
+14) Write a Java program that works as a simple calculator. Arrange Buttons for digits and the + - * % operations properly. Add a text field to display the result. Handle any possible exceptions like divide by zero. Use Java Swing.
+15) Write a Java program that simulates a traffic light. The program lets the user select one of three lights: red, yellow, or green. When a radio button is selected, the light is turned on, and only one light can be on at a time. No light is on when the program starts.
+16) Write a Java program to display all records from a table using Java Database Connectivity (JDBC).
+17) Write a Java program for the following: **
           1) Create a doubly linked list of elements.
           2) Delete a given element from the above list.
           3) Display the contents of the list after deletion.
-17) Write a Java program that implements Quick sort algorithm for sorting a list of names in ascending order. 
+18) Write a Java program that implements Quick sort algorithm for sorting a list of names in ascending order. 
